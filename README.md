@@ -1,4 +1,6 @@
 # Insert-Element-at-a-Specific-Position-in-an-Array
+### Visual Representation 
+![](visuals.jpg)
 ### Output
 <pre>
 1 2 3 4 5 6 7 8 9 10
